@@ -1,5 +1,5 @@
 
-<img src="image/002.jpg" alt="002" width="200"/>
+<img src="image/002.jpg" alt="002" width="200" style="border-radius: 50%"/>
 
 
 
