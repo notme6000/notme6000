@@ -14,4 +14,6 @@ I specialize in crafting **secure and immersive web applications** and **engagin
 - **[Website](https://notme6000.github.io)**
 - **[Instagram](https://www.instagram.com/notme_6000/)**
 
-[![notme6000's GitHub stats](https://github-readme-stats.vercel.app/api?username=notme6000)](https://github.com/anuraghazra/github-readme-stats)
+[![notme6000's GitHub stats](https://github-readme-stats.vercel.app/api?username=notme6000&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notme6000&layout=compact&theme=tokyonight)
