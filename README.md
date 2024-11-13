@@ -10,7 +10,7 @@ I specialize in crafting **secure and immersive web applications** and **engagin
 
 ### 🔧 Skills
 - **Languages**: Python, JavaScript, HTML, CSS, GDScript
-- **Frameworks**: Bootstrap, React Native
+- **Frameworks**: Bootstrap
 - **Tools**: MongoDB, VS Code, Git
 - **Cybersecurity**
 
