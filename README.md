@@ -21,3 +21,5 @@ I specialize in crafting **secure and immersive web applications** and **engagin
 [![notme6000's GitHub stats](https://github-readme-stats.vercel.app/api?username=notme6000&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notme6000&layout=compact&theme=tokyonight)
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2985021" style='border:none;'></iframe>
