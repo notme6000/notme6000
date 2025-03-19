@@ -1,7 +1,4 @@
 
-<img src="image/002.jpg" alt="002" width="200" style="border-radius: 50%;"/>
-
-
 
 👋 **Hello! I'm notme6000**  
 🚀 Passionate **Web & Game Developer** | **Cybersecurity Enthusiast** | **Tech Innovator**  
