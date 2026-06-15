@@ -21,8 +21,7 @@ I'm a cybersecurity researcher and developer with a focus on web application sec
 ## Technical skills
 
 ```
-Languages    Python · JavaScript · Bash · GDScript
-Web          HTML · CSS · Bootstrap · MongoDB
+Languages    Python · JavaScript · Bash · Go-lang · Lua
 Security     VAPT · Burp Suite · Nmap · Wireshark · CTF labs
 Tools        Git · VS Code · Linux
 ```
