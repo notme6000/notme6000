@@ -1,21 +1,46 @@
+# Jithu Suresh
 
+> Security researcher · developer · builder. Exploring offensive & defensive security, one lab at a time.
 
-👋 **Hello! I'm Jithu Suresh**  
-🚀 Passionate **Web & Game Developer** | **Cybersecurity Enthusiast** | **Tech Innovator**  
+---
 
-I specialize in crafting **secure and immersive web applications** and **engaging gaming experiences**. With a deep interest in cutting-edge technologies, I aim to push the boundaries of what's possible in the digital world. From sleek, interactive websites to dynamic gaming mechanics, I'm always ready to take on new challenges and bring fresh ideas to life.
+## About
 
-### 🔧 Skills
-- **Languages**: Python, JavaScript, HTML, CSS, GDScript, bash
-- **Frameworks**: Bootstrap
-- **Tools**: MongoDB, VS Code, Git
-- **Cybersecurity**
+I'm a cybersecurity researcher and developer with a focus on web application security, vulnerability research, and building secure software. I work across web and game development, combining a strong interest in both offensive security techniques and developer tooling.
 
-### 📫 Let's Connect!
-- **[Website](https://notme6000.github.io)**
-- **[Instagram](https://www.instagram.com/notme_6000/)**
+---
 
-[![notme6000's GitHub stats](https://github-readme-stats.vercel.app/api?username=notme6000&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## Focus areas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notme6000&layout=compact&theme=tokyonight)
+- **Vulnerability research** — web application penetration testing, VAPT, CVE analysis
+- **Threat analysis** — security tooling, CTF challenges, lab environments
+- **Secure development** — building with security-first practices across web and game projects
 
+---
+
+## Technical skills
+
+```
+Languages    Python · JavaScript · Bash · GDScript
+Web          HTML · CSS · Bootstrap · MongoDB
+Security     VAPT · Burp Suite · Nmap · Wireshark · CTF labs
+Tools        Git · VS Code · Linux
+```
+
+---
+
+## GitHub stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=notme6000&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/notme6000)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notme6000&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/portfolio-notme6000.github.io-blue?style=flat-square&logo=githubpages)](https://notme6000.github.io)
+[![Instagram](https://img.shields.io/badge/instagram-@notme__6000-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/notme_6000/)
+
+---
+
+*Open to security research collaborations, CTF teams, and freelance security auditing work.*
